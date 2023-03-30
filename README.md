@@ -6,8 +6,7 @@
   git clone https://github.com/Harshgupta30/E-commerce-MD.git
   ```
 <br>
-Install Postgrace admin<br>
-create four tables<br>
+
 <!-- ### users -->
 <details>
 <summary>users</summary>
